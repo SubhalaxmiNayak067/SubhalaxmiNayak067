@@ -1,3 +1,4 @@
+![logo](https://github.com/SubhalaxmiNayak067/SubhalaxmiNayak067/blob/main/Profile.jpg)
 <h1 align="center">Hi 👋, I'm Subhalaxmi Nayak</h1>
 <h3 align="center">A passionate Data Analytics and Machine Learning Engineer from India</h3>
 
